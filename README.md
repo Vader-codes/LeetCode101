@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Vader-codes/LeetCode101/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
+| [0948-bag-of-tokens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## Queue
@@ -71,8 +72,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0948-bag-of-tokens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0948-bag-of-tokens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0948-bag-of-tokens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 <!---LeetCode Topics End-->
