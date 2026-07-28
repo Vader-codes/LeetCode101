@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Vader-codes/LeetCode101/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0713-subarray-product-less-than-k](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Vader-codes/LeetCode101/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0713-subarray-product-less-than-k](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,8 +40,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 <!---LeetCode Topics End-->
