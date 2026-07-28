@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Vader-codes/LeetCode101/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
