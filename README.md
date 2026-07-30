@@ -122,4 +122,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
