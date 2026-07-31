@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -140,4 +141,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 <!---LeetCode Topics End-->
