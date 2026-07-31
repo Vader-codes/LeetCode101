@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
+| [0994-rotting-oranges](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
@@ -141,9 +142,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0994-rotting-oranges](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0994-rotting-oranges](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 <!---LeetCode Topics End-->
