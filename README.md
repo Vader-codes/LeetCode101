@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0022-generate-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0043-multiply-strings](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [1162-as-far-from-land-as-possible](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 ## Stack
@@ -210,6 +212,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
