@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-bag-of-tokens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [0994-rotting-oranges](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1034-coloring-a-border](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1034-coloring-a-border/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1870-minimum-speed-to-arrive-on-time/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
