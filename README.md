@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0047-permutations-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0051-n-queens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0075-sort-colors](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Vader-codes/LeetCode101/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -215,8 +216,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
