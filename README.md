@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0075-sort-colors](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0079-word-search](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Vader-codes/LeetCode101/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0043-multiply-strings](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0127-word-ladder](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0752-open-the-lock](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0079-word-search](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0994-rotting-oranges](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1034-coloring-a-border](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1034-coloring-a-border/) | Medium |
@@ -185,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1034-coloring-a-border](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1034-coloring-a-border/) | Medium |
@@ -223,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
+| [0079-word-search](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
