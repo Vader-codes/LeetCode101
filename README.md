@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1034-coloring-a-border](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1034-coloring-a-border/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/1095-find-in-mountain-array/) | Hard |
 | [1162-as-far-from-land-as-possible](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/1095-find-in-mountain-array/) | Hard |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1870-minimum-speed-to-arrive-on-time/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -252,4 +254,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1095-find-in-mountain-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/1095-find-in-mountain-array/) | Hard |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1095-find-in-mountain-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/1095-find-in-mountain-array/) | Hard |
 <!---LeetCode Topics End-->
