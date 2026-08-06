@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Vader-codes/LeetCode101/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0264-ugly-number-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0973-k-closest-points-to-origin/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -148,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0645-set-mismatch](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0948-bag-of-tokens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0973-k-closest-points-to-origin/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -303,4 +308,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0973-k-closest-points-to-origin/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
