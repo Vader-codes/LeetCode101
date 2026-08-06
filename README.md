@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Vader-codes/LeetCode101/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0260-single-number-iii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Vader-codes/LeetCode101/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Monotonic Queue
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0645-set-mismatch](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
@@ -281,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -293,5 +297,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
