@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0075-sort-colors](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0137-single-number-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
@@ -382,4 +385,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0480-sliding-window-median](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0480-sliding-window-median/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
