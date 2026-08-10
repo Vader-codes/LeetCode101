@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0480-sliding-window-median](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0480-sliding-window-median/) | Hard |
 | [0502-ipo](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0502-ipo/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0645-set-mismatch](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
@@ -193,10 +194,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
