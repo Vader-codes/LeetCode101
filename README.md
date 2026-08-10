@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1162-as-far-from-land-as-possible](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1376-time-needed-to-inform-all-employees/) | Medium |
+| [1609-even-odd-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1609-even-odd-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1376-time-needed-to-inform-all-employees/) | Medium |
+| [1609-even-odd-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1609-even-odd-tree/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -398,4 +400,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [1609-even-odd-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1609-even-odd-tree/) | Medium |
 <!---LeetCode Topics End-->
