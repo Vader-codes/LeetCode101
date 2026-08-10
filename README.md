@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -366,10 +368,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
+| [0901-online-stock-span](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
+| [0901-online-stock-span](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
