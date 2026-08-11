@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0645-set-mismatch](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0752-open-the-lock](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## String
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0752-open-the-lock](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1034-coloring-a-border](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1034-coloring-a-border/) | Medium |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0623-add-one-row-to-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0623-add-one-row-to-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1034-coloring-a-border](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1034-coloring-a-border/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
@@ -298,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0623-add-one-row-to-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1609-even-odd-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1609-even-odd-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -411,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0623-add-one-row-to-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1609-even-odd-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
