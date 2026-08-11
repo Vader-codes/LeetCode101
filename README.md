@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1609-even-odd-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1609-even-odd-tree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-coloring-a-border](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1034-coloring-a-border/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1376-time-needed-to-inform-all-employees/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1609-even-odd-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1609-even-odd-tree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -401,4 +404,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [1609-even-odd-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1609-even-odd-tree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
