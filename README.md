@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1310-xor-queries-of-a-subarray/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1162-as-far-from-land-as-possible](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1376-time-needed-to-inform-all-employees/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1609-even-odd-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Depth-First Search
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1382-balance-a-binary-search-tree/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -337,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1382-balance-a-binary-search-tree/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1609-even-odd-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Graph Theory
@@ -468,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1382-balance-a-binary-search-tree/) | Medium |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1609-even-odd-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Cartesian Tree
