@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0127-word-ladder](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0623-add-one-row-to-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0623-add-one-row-to-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0079-word-search](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0623-add-one-row-to-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0623-add-one-row-to-tree/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
@@ -442,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0623-add-one-row-to-tree/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
