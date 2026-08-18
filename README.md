@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0480-sliding-window-median](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0480-sliding-window-median/) | Hard |
 | [0494-target-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0213-house-robber-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0264-ugly-number-ii/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 ## Stack
@@ -543,9 +545,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
