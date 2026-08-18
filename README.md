@@ -350,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0623-add-one-row-to-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0623-add-one-row-to-tree/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
@@ -490,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0623-add-one-row-to-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0623-add-one-row-to-tree/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
@@ -510,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1382-balance-a-binary-search-tree/) | Medium |
