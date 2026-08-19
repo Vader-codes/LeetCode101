@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0502-ipo](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
+| [0518-coin-change-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0645-set-mismatch](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1049-last-stone-weight-ii/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 ## Stack
@@ -559,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1049-last-stone-weight-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
@@ -571,4 +574,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
