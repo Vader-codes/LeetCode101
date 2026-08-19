@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1034-coloring-a-border](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1034-coloring-a-border/) | Medium |
 | [1046-last-stone-weight](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
+| [1049-last-stone-weight-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1049-last-stone-weight-ii/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/1095-find-in-mountain-array/) | Hard |
 | [1162-as-far-from-land-as-possible](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1049-last-stone-weight-ii/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -553,10 +555,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1049-last-stone-weight-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1049-last-stone-weight-ii/) | Medium |
 <!---LeetCode Topics End-->
