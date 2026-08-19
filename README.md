@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0474-ones-and-zeroes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0474-ones-and-zeroes/) | Medium |
 | [0480-sliding-window-median](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0480-sliding-window-median/) | Hard |
 | [0494-target-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0502-ipo](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0502-ipo/) | Hard |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0127-word-ladder](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0474-ones-and-zeroes/) | Medium |
 | [0752-open-the-lock](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Binary Search
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0264-ugly-number-ii/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 ## Stack
@@ -546,10 +549,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
