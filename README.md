@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0993-cousins-in-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0993-cousins-in-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1034-coloring-a-border](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1034-coloring-a-border/) | Medium |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
+| [0993-cousins-in-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0993-cousins-in-binary-tree/) | Easy |
 | [1020-number-of-enclaves](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1034-coloring-a-border](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1034-coloring-a-border/) | Medium |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
+| [0993-cousins-in-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0993-cousins-in-binary-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
@@ -527,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0938-range-sum-of-bst/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
+| [0993-cousins-in-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0993-cousins-in-binary-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
