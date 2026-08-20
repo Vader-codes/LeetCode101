@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0213-house-robber-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
