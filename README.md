@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0645-set-mismatch](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0502-ipo/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0645-set-mismatch](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0973-k-closest-points-to-origin/) | Medium |
 ## Greedy
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0502-ipo](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0502-ipo/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0646-maximum-length-of-pair-chain](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1382-balance-a-binary-search-tree/) | Medium |
 ## Dynamic Programming
@@ -232,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0983-minimum-cost-for-tickets/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1049-last-stone-weight-ii/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
@@ -597,4 +601,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 <!---LeetCode Topics End-->
