@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
+| [0174-dungeon-game](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0174-dungeon-game/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0120-triangle/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
+| [0174-dungeon-game](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0174-dungeon-game/) | Hard |
 | [0213-house-robber-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0221-maximal-square/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0264-ugly-number-ii/) | Medium |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0174-dungeon-game](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0174-dungeon-game/) | Hard |
 | [0221-maximal-square](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0221-maximal-square/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0741-cherry-pickup](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
