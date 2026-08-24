@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0474-ones-and-zeroes/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0752-open-the-lock](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0741-cherry-pickup](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
 | [0983-minimum-cost-for-tickets](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0983-minimum-cost-for-tickets/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1049-last-stone-weight-ii/) | Medium |
@@ -648,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
