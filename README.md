@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0752-open-the-lock](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0741-cherry-pickup](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
 | [0983-minimum-cost-for-tickets](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0983-minimum-cost-for-tickets/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1049-last-stone-weight-ii/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1277-count-square-submatrices-with-all-ones/) | Medium |
@@ -653,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
