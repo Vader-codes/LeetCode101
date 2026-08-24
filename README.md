@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0043-multiply-strings](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
@@ -644,4 +647,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
