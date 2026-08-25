@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0043-multiply-strings](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
+| [0044-wildcard-matching](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
+| [0044-wildcard-matching](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0502-ipo](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0502-ipo/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0063-unique-paths-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
@@ -324,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0025-reverse-nodes-in-k-group/) | Hard |
+| [0044-wildcard-matching](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
