@@ -384,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1609-even-odd-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1609-even-odd-tree/) | Medium |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1382-balance-a-binary-search-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
@@ -425,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1020-number-of-enclaves](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -464,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
