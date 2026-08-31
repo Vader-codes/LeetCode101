@@ -372,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0623-add-one-row-to-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
+| [0684-redundant-connection](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0752-open-the-lock](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0752-open-the-lock/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0623-add-one-row-to-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
+| [0684-redundant-connection](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
@@ -425,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0684-redundant-connection](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -466,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
+| [0684-redundant-connection](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Topological Sort
