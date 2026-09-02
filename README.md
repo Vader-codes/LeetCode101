@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1306-jump-game-iii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1310-xor-queries-of-a-subarray/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
+| [1306-jump-game-iii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1080-insufficient-nodes-in-root-to-leaf-paths/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
+| [1306-jump-game-iii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1382-balance-a-binary-search-tree/) | Medium |
