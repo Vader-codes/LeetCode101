@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0376-wiggle-subsequence/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0134-gas-station/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0376-wiggle-subsequence/) | Medium |
 | [0502-ipo](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0502-ipo/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0376-wiggle-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
