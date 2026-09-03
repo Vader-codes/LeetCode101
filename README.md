@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0641-design-circular-deque](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0641-design-circular-deque/) | Medium |
 | [0645-set-mismatch](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vader-codes/LeetCode101/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0641-design-circular-deque](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0641-design-circular-deque/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0355-design-twitter](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
+| [0641-design-circular-deque](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0641-design-circular-deque/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 ## Recursion
@@ -613,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0355-design-twitter](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
+| [0641-design-circular-deque](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0641-design-circular-deque/) | Medium |
 | [0901-online-stock-span](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 | [1472-design-browser-history](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 ## Data Stream
