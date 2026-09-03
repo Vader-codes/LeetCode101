@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1306-jump-game-iii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1310-xor-queries-of-a-subarray/) | Medium |
+| [1472-design-browser-history](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 ## Queue
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0962-maximum-width-ramp](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0962-maximum-width-ramp/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0355-design-twitter](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -611,11 +614,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0355-design-twitter](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
 | [0901-online-stock-span](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
+| [1472-design-browser-history](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0901-online-stock-span](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
+| [1472-design-browser-history](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -742,4 +747,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
