@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0474-ones-and-zeroes/) | Medium |
 | [0480-sliding-window-median](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0480-sliding-window-median/) | Hard |
 | [0494-target-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0279-perfect-squares/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## Two Pointers
