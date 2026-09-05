@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1094-car-pooling](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/1095-find-in-mountain-array/) | Hard |
+| [1146-snapshot-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1146-snapshot-array/) | Medium |
 | [1162-as-far-from-land-as-possible](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1162-as-far-from-land-as-possible/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1254-number-of-closed-islands/) | Medium |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0904-fruit-into-baskets/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1146-snapshot-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1146-snapshot-array/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/1095-find-in-mountain-array/) | Hard |
+| [1146-snapshot-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1146-snapshot-array/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1870-minimum-speed-to-arrive-on-time/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -618,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
 | [0641-design-circular-deque](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0641-design-circular-deque/) | Medium |
 | [0901-online-stock-span](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
+| [1146-snapshot-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1146-snapshot-array/) | Medium |
 | [1472-design-browser-history](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -755,4 +759,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
+## Persistent Data Structure
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1146-snapshot-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1146-snapshot-array/) | Medium |
 <!---LeetCode Topics End-->
