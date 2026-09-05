@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
+| [0611-valid-triangle-number](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0641-design-circular-deque](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0641-design-circular-deque/) | Medium |
 | [0645-set-mismatch](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0611-valid-triangle-number](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
+| [0611-valid-triangle-number](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
@@ -257,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0502-ipo](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0502-ipo/) | Hard |
+| [0611-valid-triangle-number](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0645-set-mismatch](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
@@ -277,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0135-candy/) | Hard |
 | [0376-wiggle-subsequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0376-wiggle-subsequence/) | Medium |
 | [0502-ipo](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0502-ipo/) | Hard |
+| [0611-valid-triangle-number](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
