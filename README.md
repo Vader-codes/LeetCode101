@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0460-lfu-cache](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
 | [0480-sliding-window-median](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0480-sliding-window-median/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0645-set-mismatch](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0355-design-twitter](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
+| [0460-lfu-cache](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
 | [0641-design-circular-deque](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0641-design-circular-deque/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
@@ -622,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0355-design-twitter](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
+| [0460-lfu-cache](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
 | [0641-design-circular-deque](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0641-design-circular-deque/) | Medium |
 | [0901-online-stock-span](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 | [1146-snapshot-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1146-snapshot-array/) | Medium |
@@ -762,6 +765,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0460-lfu-cache/) | Hard |
 | [1472-design-browser-history](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 ## Persistent Data Structure
 | Problem Name | Difficulty |
