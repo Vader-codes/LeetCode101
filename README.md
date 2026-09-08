@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0008-string-to-integer-atoi/) | Medium |
 | [0022-generate-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0043-multiply-strings](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
