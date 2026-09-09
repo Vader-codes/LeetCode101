@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
+| [0018-4sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0037-sudoku-solver](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
+| [0018-4sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
