@@ -385,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0025-reverse-nodes-in-k-group/) | Hard |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
