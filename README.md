@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1472-design-browser-history](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2043-simple-bank-system](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2043-simple-bank-system/) | Medium |
+| [2241-design-an-atm-machine](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2241-design-an-atm-machine/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1382-balance-a-binary-search-tree/) | Medium |
+| [2241-design-an-atm-machine](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2241-design-an-atm-machine/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -664,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-snapshot-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1146-snapshot-array/) | Medium |
 | [1472-design-browser-history](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 | [2043-simple-bank-system](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2043-simple-bank-system/) | Medium |
+| [2241-design-an-atm-machine](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2241-design-an-atm-machine/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
