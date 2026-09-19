@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1310-xor-queries-of-a-subarray](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1310-xor-queries-of-a-subarray/) | Medium |
 | [1472-design-browser-history](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [2043-simple-bank-system](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2043-simple-bank-system/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1146-snapshot-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1146-snapshot-array/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
+| [2043-simple-bank-system](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2043-simple-bank-system/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [1094-car-pooling](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
+| [2043-simple-bank-system](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2043-simple-bank-system/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -660,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0901-online-stock-span](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0901-online-stock-span/) | Medium |
 | [1146-snapshot-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1146-snapshot-array/) | Medium |
 | [1472-design-browser-history](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
+| [2043-simple-bank-system](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2043-simple-bank-system/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
