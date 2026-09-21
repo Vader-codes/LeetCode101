@@ -335,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
+| [0338-counting-bits](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0368-largest-divisible-subset/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0376-wiggle-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0645-set-mismatch](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1310-xor-queries-of-a-subarray/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
