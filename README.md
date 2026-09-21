@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0043-multiply-strings](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0067-add-binary](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
@@ -595,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
