@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0091-decode-ways](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0127-word-ladder](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
+| [0091-decode-ways](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
