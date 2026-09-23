@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0120-triangle](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0120-triangle/) | Medium |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -364,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
@@ -377,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
@@ -437,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0174-dungeon-game](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0174-dungeon-game/) | Hard |
 | [0221-maximal-square](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0221-maximal-square/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
