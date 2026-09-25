@@ -833,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0197-rising-temperature/) | Easy |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
