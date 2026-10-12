@@ -857,4 +857,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1661-average-time-of-process-per-machine](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/1757-recyclable-and-low-fat-products/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
