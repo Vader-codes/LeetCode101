@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0037-sudoku-solver](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -449,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0174-dungeon-game](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0174-dungeon-game/) | Hard |
