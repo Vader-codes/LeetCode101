@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0043-multiply-strings](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0067-add-binary](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
