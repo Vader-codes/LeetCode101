@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0037-sudoku-solver](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0010-regular-expression-matching/) | Hard |
+| [0013-roman-to-integer](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0067-add-binary](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
