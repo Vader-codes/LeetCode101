@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0704-binary-search](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0721-accounts-merge](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0721-accounts-merge/) | Medium |
 | [0739-daily-temperatures](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0611-valid-triangle-number](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
+| [0704-binary-search](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
