@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-snapshot-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1146-snapshot-array/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [2043-simple-bank-system](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2043-simple-bank-system/) | Medium |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/2062-count-vowel-substrings-of-a-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1092-shortest-common-supersequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/2062-count-vowel-substrings-of-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
