@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0086-partition-list/) | Medium |
+| [0143-reorder-list](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0611-valid-triangle-number](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
+| [0143-reorder-list](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
@@ -442,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0086-partition-list](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0086-partition-list/) | Medium |
+| [0143-reorder-list](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0355-design-twitter](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0355-design-twitter/) | Medium |
@@ -458,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
+| [0143-reorder-list](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Matrix
