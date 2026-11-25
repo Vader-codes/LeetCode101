@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2043-simple-bank-system](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2043-simple-bank-system/) | Medium |
 | [2241-design-an-atm-machine](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2241-design-an-atm-machine/) | Medium |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2433-find-the-original-array-of-prefix-xor/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [2043-simple-bank-system](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/2043-simple-bank-system/) | Medium |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/2062-count-vowel-substrings-of-a-string/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/2062-count-vowel-substrings-of-a-string/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-bag-of-tokens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0948-bag-of-tokens/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0973-k-closest-points-to-origin/) | Medium |
 | [1094-car-pooling](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
