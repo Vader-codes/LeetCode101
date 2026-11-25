@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0037-sudoku-solver](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0043-multiply-strings](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/Vader-codes/LeetCode101/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
